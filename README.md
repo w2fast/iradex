@@ -8,3 +8,8 @@ This activates a mode 13h like VGA mode with very specific VGA assumptions. The 
 Sorry for the way I'm describing it, as I have a very specific mental model of it. Feel free to do anything you want with the code and use your own mental model
 
 This will be adapted to run on older hardware and likely be built for a non-BIOS environment. I will post the new code here after I am done. It will likely use EGA video card assumptions
+
+
+
+*Edit:
+I've decided to purely focus on making a BIOS, so this probably won't be adapted. 
